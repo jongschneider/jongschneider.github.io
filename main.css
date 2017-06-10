@@ -1,0 +1,53 @@
+body {
+  background: url(images/cork-wallet.png) repeat;
+}
+
+body,
+h1,
+h3,
+p {
+  color: #212326;
+}
+
+body,
+h1,
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+  font-family: monospace;
+}
+
+.container {
+  text-align: center;
+  padding-top: 100px;
+}
+
+hr {
+  width: 50%;
+  border-bottom: 1px solid black;
+}
+
+.quote-box {
+  background-color: white;
+  width: auto;
+  border-radius: 10px;
+  border: #d8d6cd solid 1px;
+}
+
+.quote-box p {
+  padding-top: 20px;
+}
+
+#quote {
+  font-size: 30px;
+}
+
+#author {
+  font-size: 20px;
+}
+
+.quote-box li {
+  padding: 10px;
+}
